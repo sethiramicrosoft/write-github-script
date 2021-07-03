@@ -5,7 +5,7 @@ We are so excited to help you continue learning GitHub Actions through Learning 
 
 https://sethiramicrosoft.github.io/write-github-script/
 
-TR
+TRL
 ---
 
 Head over the the open issue in this repository to get started :tada:
